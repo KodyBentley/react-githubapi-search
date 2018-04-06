@@ -1,0 +1,13 @@
+.avatar-img {
+    max-width: 10%;
+    border-radius: 50%;
+}
+
+.container {
+    max-width: none;
+}
+
+.small-info-boxes {
+    background-color: #e5e5e5;
+    padding: 2rem 2rem 2rem 2rem;
+}
